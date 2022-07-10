@@ -31,7 +31,7 @@ public class MainActivity extends AppCompatActivity {
 
         u = ListActivity.usersList.get(pos);
         userId = findViewById(R.id.idTxt);
-        userDesc = findViewById(R.id.descTxt);
+        userDesc = findViewById(R.id.txtDesc);
         followButton = findViewById(R.id.followButton);
         messageButton = findViewById(R.id.messageButton);
 
